@@ -1,0 +1,15 @@
+source "https://rubygems.org"
+
+gem 'cucumber'
+gem 'appium_lib'
+gem 'parallel_tests'
+gem 'pry'
+gem 'rake'
+gem 'rspec'
+gem 'jsonpath'
+gem 'report_builder', '1.9'
+gem 'rspec-expectations', '3.10.0'
+gem 'selenium-webdriver'
+gem 'touch_action'
+gem 'watir'
+gem 'watir-scroll'

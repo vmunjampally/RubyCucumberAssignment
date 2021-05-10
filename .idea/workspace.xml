@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7557fbb-3ba3-4a13-b717-04d1f2d05443" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1s0rEQIW8hApHW41Quw1QS60Mbk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7557fbb-3ba3-4a13-b717-04d1f2d05443" name="Default Changelist" comment="" />
+      <created>1620020235670</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620020235670</updated>
+      <workItem from="1620020237096" duration="92000" />
+      <workItem from="1620093710785" duration="1033000" />
+      <workItem from="1620099598587" duration="233000" />
+      <workItem from="1620100404084" duration="458000" />
+      <workItem from="1620635639704" duration="659000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="287" width="674" height="486" key="find.popup" timestamp="1620099697717">
+      <screen x="0" y="25" width="1792" height="1010" />
+    </state>
+    <state x="559" y="287" width="674" height="486" key="find.popup/0.25.1792.1010@0.25.1792.1010" timestamp="1620099697717" />
+  </component>
+</project>
